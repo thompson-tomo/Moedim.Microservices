@@ -21,7 +21,7 @@
 		<PackageProjectUrl>https://github.com/kdcllc/Moedim.Microservices</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/kdcllc/Moedim.Microservices.git</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
-		<PackageLicense>https://github.com/kdcllc/Moedim.Microservices/master/LICENSE</PackageLicense>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageIcon>icon.png</PackageIcon>
 		<PackageTags>dotnet, dotnetcore, docker, kubernetes, azure key vault, azure blob storage, microservices, container</PackageTags>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
